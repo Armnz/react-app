@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p, h1, h2 {
+  color: #555;
+}
+
+button {
+  background: #ff4500;
+  color: #fff;
+  padding: 10px;
+  border: 0;
+  border-radius: 4px;
+  margin: 10px auto;
+  cursor: pointer
+}
+
+.title {
+  display: inline-block;
+  padding: 30px 60px;
+  background: gray;
+  border-radius: 8px;
+margin-bottom: 10px;
+}
+
+.subtitle {
+  display: inline-block;
+  color: #555;
+  padding-bottom: 20px;
+  border-bottom: 1 px solid gray;
+
+}
